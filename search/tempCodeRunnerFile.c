@@ -1,0 +1,1 @@
+printf("L[i] : %d\nL[j] : %d\nL[k] : %d\n", larik[i], larik[j], larik[k]);
